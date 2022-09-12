@@ -1,12 +1,12 @@
 # 캐리지 리턴 이용
 
 from time import sleep
-D = {0., 1.., 2...}
+D = {0:".", 1:"..", 2:"..."}
 #print(Loading,end=' ')
 
-for i in range(100)
+for i in range(100):
     sleep(0.26)
-    print(frLoading  {D[i%2]} , end='')
+    print(f"/rLoading  {D[i%2]} ", end='')
 
 
 
