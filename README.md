@@ -1,6 +1,6 @@
 # VoiceRecognition
 음성인식 기초 공부를 위한 repository입니다.<br> 
-사용 api : gtts (추후 추가 예정 가능성<br>
+사용 api : gtts (추후 추가 예정 가능성 O) <br>
 <hr>
 <br><br>
 # 참고 링크 <br>
